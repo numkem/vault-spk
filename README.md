@@ -8,7 +8,7 @@ Install vault into a Synology NAS.
 
 ## Requirements
 
-Only tested on x64 (DS916+) could work on ARM since there an available vault binary.
+Only tested on x64 (DS916+) could work on ARM since a vault binary exists.
 
 ## Usage
 
